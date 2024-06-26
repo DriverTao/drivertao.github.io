@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>所有文章 - JJ&#39;s Bizarre Adventure</title>
+    <link>https://drivertao.github.io/posts/</link>
+    <description>所有文章 | JJ&#39;s Bizarre Adventure</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 26 Jun 2024 13:52:38 &#43;0800</lastBuildDate><atom:link href="https://drivertao.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+  <title>ChatGPT</title>
+  <link>https://drivertao.github.io/posts/chatgpt/</link>
+  <pubDate>Wed, 26 Jun 2024 13:52:38 &#43;0800</pubDate>
+  <author>作者</author>
+  <guid>https://drivertao.github.io/posts/chatgpt/</guid>
+  <description><![CDATA[什么是 ChatGPT？ ChatGPT 是由 OpenAI 开发的一种高级语言模型，基于 GPT（生成式预训练变换器）架构。ChatGPT 专为对话设计，能够进行自然语言处理]]></description>
+</item>
+</channel>
+</rss>
